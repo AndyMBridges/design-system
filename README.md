@@ -7,7 +7,7 @@ FramerX:
 * Code components will be saved under design-system.framerfx/code
 * See design-system.framerfx/code/NBSbutton.jsx as an example
 
-Transfer component to storybook
+Transfer component to Storybook:
 
 * Create a new file storybook/src/stories/name.stories.js
 * Copy over your component styles from design-system.framerfx/code/filename.jsx
