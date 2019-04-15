@@ -1,0 +1,166 @@
+[2019-04-15 12:59:50.1100] - INFO - Reading from /Users/andbridg/Sites/design-system/design-system.framerfx (origin); preserving existing contents of project folder: true
+[2019-04-15 12:59:50.1840] - INFO - Done reading
+[2019-04-15 12:59:50.1850] - INFO - Marking changed: false
+[2019-04-15 12:59:50.1870] - INFO - Marking changed: false
+[2019-04-15 12:59:50.1920] - DEBUG - [Save session: 3] Completed super.save
+[2019-04-15 12:59:50.2330] - WARNING - "@framer/benjamin.input#framer@^0.9.5" doesn't satisfy found match of "framer@0.10.10"
+[2019-04-15 12:59:50.2330] - WARNING - "@framer/roray.bulma#framer@^0.9.0" doesn't satisfy found match of "framer@0.10.10"
+[2019-04-15 12:59:50.2330] - WARNING - "@framer/benjamin.input#framer@^0.9.5" doesn't satisfy found match of "framer@0.10.10"
+[2019-04-15 12:59:50.2330] - WARNING - "@framer/roray.bulma#framer@^0.9.0" doesn't satisfy found match of "framer@0.10.10"
+[2019-04-15 12:59:50.3350] - ERROR - No installed Framer version
+[2019-04-15 12:59:50.3390] - ERROR - No installed Framer version
+[2019-04-15 12:59:50.6680] - ERROR -    72 modules
+[2019-04-15 12:59:50.6680] - ERROR - WARNING in ./node_modules/@framer/martiankid.radio-check/dist/index.js (/Applications/Framer X.app/Contents/Resources/Server/lib/framer-package-loader.js!./node_modules/@framer/martiankid.radio-check/dist/index.js)
+[2019-04-15 12:59:50.6680] - ERROR - Module not found: Error: Can't resolve '@framer/framer.device-hand-iphone-1' in '/Users/andbridg/Library/Autosave Information/Framer-A633C63B-CC48-44EC-B7BE-9ECA0025AA3D/container/node_modules/@framer/martiankid.radio-check/dist'
+[2019-04-15 12:59:50.6680] - ERROR - WARNING in ./node_modules/@framer/martiankid.radio-check/dist/index.js (/Applications/Framer X.app/Contents/Resources/Server/lib/framer-package-loader.js!./node_modules/@framer/martiankid.radio-check/dist/index.js)
+[2019-04-15 12:59:50.6680] - ERROR - Module not found: Error: Can't resolve '@framer/framer.device-hand-iphone-2' in '/Users/andbridg/Library/Autosave Information/Framer-A633C63B-CC48-44EC-B7BE-9ECA0025AA3D/container/node_modules/@framer/martiankid.radio-check/dist'
+[2019-04-15 12:59:50.6680] - ERROR - WARNING in ./node_modules/@framer/martiankid.radio-check/dist/index.js (/Applications/Framer X.app/Contents/Resources/Server/lib/framer-package-loader.js!./node_modules/@framer/martiankid.radio-check/dist/index.js)
+[2019-04-15 12:59:50.6680] - ERROR - Module not found: Error: Can't resolve '@framer/framer.device-skin-apple-iphone-x-space-gray' in '/Users/andbridg/Library/Autosave Information/Framer-A633C63B-CC48-44EC-B7BE-9ECA0025AA3D/container/node_modules/@framer/martiankid.radio-check/dist'
+[2019-04-15 12:59:50.6680] - ERROR - ERROR in ./code/fonts/nbs-bold/nbs-bold-webfont.eot?jttxeu5p
+[2019-04-15 12:59:50.6680] - ERROR - Module build failed: Error: ENOENT: no such file or directory, open '/Users/andbridg/Library/Autosave Information/Framer-A633C63B-CC48-44EC-B7BE-9ECA0025AA3D/container/code/fonts/nbs-bold/nbs-bold-webfont.eot'
+[2019-04-15 12:59:50.6680] - ERROR - ERROR in ./code/fonts/nbs-bold/nbs-bold-webfont.svg?jttxeu5q
+[2019-04-15 12:59:50.6680] - ERROR - Module build failed: Error: ENOENT: no such file or directory, open '/Users/andbridg/Library/Autosave Information/Framer-A633C63B-CC48-44EC-B7BE-9ECA0025AA3D/container/code/fonts/nbs-bold/nbs-bold-webfont.svg'
+[2019-04-15 12:59:50.6680] - ERROR - ERROR in ./code/fonts/nbs-bold/nbs-bold-webfont.ttf?jttxeu5p
+[2019-04-15 12:59:50.6680] - ERROR - Module build failed: Error: ENOENT: no such file or directory, open '/Users/andbridg/Library/Autosave Information/Framer-A633C63B-CC48-44EC-B7BE-9ECA0025AA3D/container/code/fonts/nbs-bold/nbs-bold-webfont.ttf'
+[2019-04-15 12:59:50.6680] - ERROR - ERROR in ./code/fonts/nbs-bold/nbs-bold-webfont.woff?jttxeu5p
+[2019-04-15 12:59:50.6680] - ERROR - Module build failed: Error: ENOENT: no such file or directory, open '/Users/andbridg/Library/Autosave Information/Framer-A633C63B-CC48-44EC-B7BE-9ECA0025AA3D/container/code/fonts/nbs-bold/nbs-bold-webfont.woff'
+[2019-04-15 12:59:50.6690] - ERROR - ERROR in ./code/fonts/nbs-icons/nbs_icons.eot?jttxeu5d
+[2019-04-15 12:59:50.6690] - ERROR - Module build failed: Error: ENOENT: no such file or directory, open '/Users/andbridg/Library/Autosave Information/Framer-A633C63B-CC48-44EC-B7BE-9ECA0025AA3D/container/code/fonts/nbs-icons/nbs_icons.eot'
+[2019-04-15 12:59:50.6690] - ERROR - ERROR in ./code/fonts/nbs-icons/nbs_icons.eot?jttxeu5e
+[2019-04-15 12:59:50.6690] - ERROR - Module build failed: Error: ENOENT: no such file or directory, open '/Users/andbridg/Library/Autosave Information/Framer-A633C63B-CC48-44EC-B7BE-9ECA0025AA3D/container/code/fonts/nbs-icons/nbs_icons.eot'
+[2019-04-15 12:59:50.6690] - ERROR - ERROR in ./code/fonts/nbs-icons/nbs_icons.svg?jttxeu5e
+[2019-04-15 12:59:50.6690] - ERROR - Module build failed: Error: ENOENT: no such file or directory, open '/Users/andbridg/Library/Autosave Information/Framer-A633C63B-CC48-44EC-B7BE-9ECA0025AA3D/container/code/fonts/nbs-icons/nbs_icons.svg'
+[2019-04-15 12:59:50.6690] - ERROR - ERROR in ./code/fonts/nbs-icons/nbs_icons.ttf?jttxeu5e
+[2019-04-15 12:59:50.6690] - ERROR - Module build failed: Error: ENOENT: no such file or directory, open '/Users/andbridg/Library/Autosave Information/Framer-A633C63B-CC48-44EC-B7BE-9ECA0025AA3D/container/code/fonts/nbs-icons/nbs_icons.ttf'
+[2019-04-15 12:59:50.6690] - ERROR - ERROR in ./code/fonts/nbs-icons/nbs_icons.woff?jttxeu5e
+[2019-04-15 12:59:50.6690] - ERROR - Module build failed: Error: ENOENT: no such file or directory, open '/Users/andbridg/Library/Autosave Information/Framer-A633C63B-CC48-44EC-B7BE-9ECA0025AA3D/container/code/fonts/nbs-icons/nbs_icons.woff'
+[2019-04-15 12:59:50.6690] - ERROR - ERROR in ./code/fonts/nbs-light/nbs-light-webfont.eot?jttxeu5z
+[2019-04-15 12:59:50.6690] - ERROR - Module build failed: Error: ENOENT: no such file or directory, open '/Users/andbridg/Library/Autosave Information/Framer-A633C63B-CC48-44EC-B7BE-9ECA0025AA3D/container/code/fonts/nbs-light/nbs-light-webfont.eot'
+[2019-04-15 12:59:50.6690] - ERROR - ERROR in ./code/fonts/nbs-light/nbs-light-webfont.svg?jttxeu5z
+[2019-04-15 12:59:50.6690] - ERROR - Module build failed: Error: ENOENT: no such file or directory, open '/Users/andbridg/Library/Autosave Information/Framer-A633C63B-CC48-44EC-B7BE-9ECA0025AA3D/container/code/fonts/nbs-light/nbs-light-webfont.svg'
+[2019-04-15 12:59:50.6690] - ERROR - ERROR in ./code/fonts/nbs-light/nbs-light-webfont.ttf?jttxeu5z
+[2019-04-15 12:59:50.6690] - ERROR - Module build failed: Error: ENOENT: no such file or directory, open '/Users/andbridg/Library/Autosave Information/Framer-A633C63B-CC48-44EC-B7BE-9ECA0025AA3D/container/code/fonts/nbs-light/nbs-light-webfont.ttf'
+[2019-04-15 12:59:50.6690] - ERROR - ERROR in ./code/fonts/nbs-light/nbs-light-webfont.woff?jttxeu5z
+[2019-04-15 12:59:50.6700] - ERROR - Module build failed: Error: ENOENT: no such file or directory, open '/Users/andbridg/Library/Autosave Information/Framer-A633C63B-CC48-44EC-B7BE-9ECA0025AA3D/container/code/fonts/nbs-light/nbs-light-webfont.woff'
+[2019-04-15 12:59:50.6700] - ERROR - ERROR in ./code/fonts/nbs-medium/nbs-medium-webfont.eot?jttxeu67
+[2019-04-15 12:59:50.6700] - ERROR - Module build failed: Error: ENOENT: no such file or directory, open '/Users/andbridg/Library/Autosave Information/Framer-A633C63B-CC48-44EC-B7BE-9ECA0025AA3D/container/code/fonts/nbs-medium/nbs-medium-webfont.eot'
+[2019-04-15 12:59:50.6700] - ERROR - ERROR in ./code/fonts/nbs-medium/nbs-medium-webfont.svg?jttxeu67
+[2019-04-15 12:59:50.6700] - ERROR - Module build failed: Error: ENOENT: no such file or directory, open '/Users/andbridg/Library/Autosave Information/Framer-A633C63B-CC48-44EC-B7BE-9ECA0025AA3D/container/code/fonts/nbs-medium/nbs-medium-webfont.svg'
+[2019-04-15 12:59:50.6700] - ERROR - ERROR in ./code/fonts/nbs-medium/nbs-medium-webfont.ttf?jttxeu67
+[2019-04-15 12:59:50.6700] - ERROR - Module build failed: Error: ENOENT: no such file or directory, open '/Users/andbridg/Library/Autosave Information/Framer-A633C63B-CC48-44EC-B7BE-9ECA0025AA3D/container/code/fonts/nbs-medium/nbs-medium-webfont.ttf'
+[2019-04-15 12:59:50.6700] - ERROR - ERROR in ./code/fonts/nbs-medium/nbs-medium-webfont.woff?jttxeu67
+[2019-04-15 12:59:50.6700] - ERROR - Module build failed: Error: ENOENT: no such file or directory, open '/Users/andbridg/Library/Autosave Information/Framer-A633C63B-CC48-44EC-B7BE-9ECA0025AA3D/container/code/fonts/nbs-medium/nbs-medium-webfont.woff'
+[2019-04-15 12:59:50.6700] - ERROR - ERROR in ./node_modules/styled-components/dist/styled-components.browser.esm.js
+[2019-04-15 12:59:50.6700] - ERROR - Module build failed: Error: ENOENT: no such file or directory, open '/Users/andbridg/Library/Autosave Information/Framer-A633C63B-CC48-44EC-B7BE-9ECA0025AA3D/container/node_modules/styled-components/dist/styled-components.browser.esm.js'
+[2019-04-15 12:59:50.7330] - ERROR -    3 modules
+[2019-04-15 12:59:50.7330] - ERROR - ERROR in ./package.json
+[2019-04-15 12:59:50.7330] - ERROR - Module build failed: Error: ENOENT: no such file or directory, open '/Users/andbridg/Library/Autosave Information/Framer-A633C63B-CC48-44EC-B7BE-9ECA0025AA3D/container/package.json'
+[2019-04-15 12:59:50.7330] - ERROR - ERROR in chunk main [entry]
+[2019-04-15 12:59:50.7330] - ERROR - index.js
+[2019-04-15 12:59:50.7330] - ERROR - /Users/andbridg/Library/Autosave Information/Framer-A633C63B-CC48-44EC-B7BE-9ECA0025AA3D/container/package.json
+[2019-04-15 12:59:50.7330] - ERROR - Cannot read property 'replace' of undefined
+[2019-04-15 12:59:50.8190] - INFO - GET 404 /node_modules/framer/build/framer.debug.js 180 B (86ms)
+[2019-04-15 12:59:50.9880] - ERROR -    3 modules
+[2019-04-15 12:59:50.9880] - ERROR - ERROR in ./package.json
+[2019-04-15 12:59:50.9880] - ERROR - Module build failed: Error: ENOENT: no such file or directory, open '/Users/andbridg/Library/Autosave Information/Framer-A633C63B-CC48-44EC-B7BE-9ECA0025AA3D/container/package.json'
+[2019-04-15 12:59:50.9880] - ERROR - ERROR in chunk main [entry]
+[2019-04-15 12:59:50.9880] - ERROR - index.js
+[2019-04-15 12:59:50.9880] - ERROR - /Users/andbridg/Library/Autosave Information/Framer-A633C63B-CC48-44EC-B7BE-9ECA0025AA3D/container/package.json
+[2019-04-15 12:59:50.9880] - ERROR - Cannot read property 'replace' of undefined
+[2019-04-15 12:59:53.0810] - ERROR - No installed Framer version
+[2019-04-15 12:59:53.3990] - DEBUG - [Save session: 4] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2019-04-15 12:59:53.3990] - DEBUG - [Save session: 4] Before container.writeChanges
+[2019-04-15 12:59:53.3990] - DEBUG - [Save session: 4] Before waitUsingRecursiveRunLoop
+[2019-04-15 12:59:53.7640] - DEBUG - [Save session: 4] Completed waitUsingRecursiveRunLoop
+[2019-04-15 12:59:53.9290] - DEBUG - [Save session: 4] Completed super.save
+[2019-04-15 12:59:53.9420] - DEBUG - [Save session: 4] Completed container.writeChanges
+[2019-04-15 12:59:57.3380] - WARNING - "@framer/benjamin.input#framer@^0.9.5" doesn't satisfy found match of "framer@0.10.10"
+[2019-04-15 12:59:57.3380] - WARNING - "@framer/roray.bulma#framer@^0.9.0" doesn't satisfy found match of "framer@0.10.10"
+[2019-04-15 12:59:57.4080] - INFO - GET 200 /node_modules/framer/build/framer.debug.js 0 B (3ms)
+[2019-04-15 12:59:58.7300] - INFO - GET 200 /node_modules/framer/build/framer.debug.js 0 B (7ms)
+[2019-04-15 12:59:59.2740] - ERROR -    83 modules
+[2019-04-15 12:59:59.2740] - ERROR - WARNING in ./node_modules/@framer/martiankid.radio-check/dist/index.js (/Applications/Framer X.app/Contents/Resources/Server/lib/framer-package-loader.js!./node_modules/@framer/martiankid.radio-check/dist/index.js)
+[2019-04-15 12:59:59.2740] - ERROR - Module not found: Error: Can't resolve '@framer/framer.device-hand-iphone-1' in '/Users/andbridg/Sites/design-system/design-system.framerfx/node_modules/@framer/martiankid.radio-check/dist'
+[2019-04-15 12:59:59.2740] - ERROR - WARNING in ./node_modules/@framer/martiankid.radio-check/dist/index.js (/Applications/Framer X.app/Contents/Resources/Server/lib/framer-package-loader.js!./node_modules/@framer/martiankid.radio-check/dist/index.js)
+[2019-04-15 12:59:59.2740] - ERROR - Module not found: Error: Can't resolve '@framer/framer.device-hand-iphone-2' in '/Users/andbridg/Sites/design-system/design-system.framerfx/node_modules/@framer/martiankid.radio-check/dist'
+[2019-04-15 12:59:59.2740] - ERROR - WARNING in ./node_modules/@framer/martiankid.radio-check/dist/index.js (/Applications/Framer X.app/Contents/Resources/Server/lib/framer-package-loader.js!./node_modules/@framer/martiankid.radio-check/dist/index.js)
+[2019-04-15 12:59:59.2750] - ERROR - Module not found: Error: Can't resolve '@framer/framer.device-skin-apple-iphone-x-space-gray' in '/Users/andbridg/Sites/design-system/design-system.framerfx/node_modules/@framer/martiankid.radio-check/dist'
+[2019-04-15 12:59:59.2750] - ERROR - ERROR in ./code/fonts/nbs-medium/nbs-medium-webfont.eot?jttxeu67
+[2019-04-15 12:59:59.2750] - ERROR - Module parse failed: Identifier directly after number (1:1)
+[2019-04-15 12:59:59.2750] - ERROR - You may need an appropriate loader to handle this file type.
+[2019-04-15 12:59:59.2750] - ERROR - (Source code omitted for this binary file)
+[2019-04-15 12:59:59.2750] - ERROR - ERROR in ./code/fonts/nbs-bold/nbs-bold-webfont.ttf?jttxeu5p
+[2019-04-15 12:59:59.2750] - ERROR - Module parse failed: Unexpected character ' ' (1:0)
+[2019-04-15 12:59:59.2750] - ERROR - You may need an appropriate loader to handle this file type.
+[2019-04-15 12:59:59.2750] - ERROR - (Source code omitted for this binary file)
+[2019-04-15 12:59:59.2750] - ERROR - ERROR in ./code/fonts/nbs-icons/nbs_icons.ttf?jttxeu5e
+[2019-04-15 12:59:59.2750] - ERROR - Module parse failed: Unexpected character ' ' (1:0)
+[2019-04-15 12:59:59.2750] - ERROR - You may need an appropriate loader to handle this file type.
+[2019-04-15 12:59:59.2750] - ERROR - (Source code omitted for this binary file)
+[2019-04-15 12:59:59.2750] - ERROR - ERROR in ./code/fonts/nbs-medium/nbs-medium-webfont.ttf?jttxeu67
+[2019-04-15 12:59:59.2750] - ERROR - Module parse failed: Unexpected character ' ' (1:0)
+[2019-04-15 12:59:59.2750] - ERROR - You may need an appropriate loader to handle this file type.
+[2019-04-15 12:59:59.2750] - ERROR - (Source code omitted for this binary file)
+[2019-04-15 12:59:59.2750] - ERROR - ERROR in ./code/fonts/nbs-light/nbs-light-webfont.ttf?jttxeu5z
+[2019-04-15 12:59:59.2750] - ERROR - Module parse failed: Unexpected character ' ' (1:0)
+[2019-04-15 12:59:59.2750] - ERROR - You may need an appropriate loader to handle this file type.
+[2019-04-15 12:59:59.2750] - ERROR - (Source code omitted for this binary file)
+[2019-04-15 12:59:59.2750] - ERROR - ERROR in ./code/fonts/nbs-icons/nbs_icons.eot?jttxeu5d
+[2019-04-15 12:59:59.2750] - ERROR - Module parse failed: Unexpected character ' ' (1:2)
+[2019-04-15 12:59:59.2750] - ERROR - You may need an appropriate loader to handle this file type.
+[2019-04-15 12:59:59.2760] - ERROR - (Source code omitted for this binary file)
+[2019-04-15 12:59:59.2760] - ERROR - ERROR in ./code/fonts/nbs-icons/nbs_icons.eot?jttxeu5e
+[2019-04-15 12:59:59.2760] - ERROR - Module parse failed: Unexpected character ' ' (1:2)
+[2019-04-15 12:59:59.2760] - ERROR - You may need an appropriate loader to handle this file type.
+[2019-04-15 12:59:59.2760] - ERROR - (Source code omitted for this binary file)
+[2019-04-15 12:59:59.2760] - ERROR - ERROR in ./code/fonts/nbs-medium/nbs-medium-webfont.woff?jttxeu67
+[2019-04-15 12:59:59.2760] - ERROR - Module parse failed: Unexpected character ' ' (1:4)
+[2019-04-15 12:59:59.2760] - ERROR - You may need an appropriate loader to handle this file type.
+[2019-04-15 12:59:59.2760] - ERROR - (Source code omitted for this binary file)
+[2019-04-15 12:59:59.2760] - ERROR - ERROR in ./code/fonts/nbs-icons/nbs_icons.woff?jttxeu5e
+[2019-04-15 12:59:59.2760] - ERROR - Module parse failed: Unexpected character ' ' (1:4)
+[2019-04-15 12:59:59.2760] - ERROR - You may need an appropriate loader to handle this file type.
+[2019-04-15 12:59:59.2760] - ERROR - (Source code omitted for this binary file)
+[2019-04-15 12:59:59.2760] - ERROR - ERROR in ./code/fonts/nbs-bold/nbs-bold-webfont.woff?jttxeu5p
+[2019-04-15 12:59:59.2760] - ERROR - Module parse failed: Unexpected character ' ' (1:4)
+[2019-04-15 12:59:59.2760] - ERROR - You may need an appropriate loader to handle this file type.
+[2019-04-15 12:59:59.2760] - ERROR - (Source code omitted for this binary file)
+[2019-04-15 12:59:59.2760] - ERROR - ERROR in ./code/fonts/nbs-light/nbs-light-webfont.woff?jttxeu5z
+[2019-04-15 12:59:59.2760] - ERROR - Module parse failed: Unexpected character ' ' (1:4)
+[2019-04-15 12:59:59.2760] - ERROR - You may need an appropriate loader to handle this file type.
+[2019-04-15 12:59:59.2760] - ERROR - (Source code omitted for this binary file)
+[2019-04-15 12:59:59.2760] - ERROR - ERROR in ./code/fonts/nbs-light/nbs-light-webfont.eot?jttxeu5z
+[2019-04-15 12:59:59.2760] - ERROR - Module parse failed: Unexpected character '�' (1:0)
+[2019-04-15 12:59:59.2760] - ERROR - You may need an appropriate loader to handle this file type.
+[2019-04-15 12:59:59.2770] - ERROR - (Source code omitted for this binary file)
+[2019-04-15 12:59:59.2770] - ERROR - ERROR in ./code/fonts/nbs-bold/nbs-bold-webfont.eot?jttxeu5p
+[2019-04-15 12:59:59.2770] - ERROR - Module parse failed: Unexpected character '�' (1:0)
+[2019-04-15 12:59:59.2770] - ERROR - You may need an appropriate loader to handle this file type.
+[2019-04-15 12:59:59.2770] - ERROR - (Source code omitted for this binary file)
+[2019-04-15 12:59:59.2770] - ERROR - ERROR in ./code/fonts/nbs-icons/nbs_icons.svg?jttxeu5e
+[2019-04-15 12:59:59.2770] - ERROR - Module parse failed: Unexpected token (1:0)
+[2019-04-15 12:59:59.2770] - ERROR - You may need an appropriate loader to handle this file type.
+[2019-04-15 12:59:59.2770] - ERROR - | <?xml version="1.0" standalone="no"?>
+[2019-04-15 12:59:59.2770] - ERROR - | <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+[2019-04-15 12:59:59.2770] - ERROR - | <svg xmlns="http://www.w3.org/2000/svg">
+[2019-04-15 12:59:59.2770] - ERROR - ERROR in ./code/fonts/nbs-medium/nbs-medium-webfont.svg?jttxeu67
+[2019-04-15 12:59:59.2770] - ERROR - Module parse failed: Unexpected token (1:0)
+[2019-04-15 12:59:59.2770] - ERROR - You may need an appropriate loader to handle this file type.
+[2019-04-15 12:59:59.2770] - ERROR - | <?xml version="1.0" standalone="no"?>
+[2019-04-15 12:59:59.2770] - ERROR - | <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+[2019-04-15 12:59:59.2770] - ERROR - | <svg xmlns="http://www.w3.org/2000/svg">
+[2019-04-15 12:59:59.2770] - ERROR - ERROR in ./code/fonts/nbs-bold/nbs-bold-webfont.svg?jttxeu5q
+[2019-04-15 12:59:59.2770] - ERROR - Module parse failed: Unexpected token (1:0)
+[2019-04-15 12:59:59.2770] - ERROR - You may need an appropriate loader to handle this file type.
+[2019-04-15 12:59:59.2770] - ERROR - | <?xml version="1.0" standalone="no"?>
+[2019-04-15 12:59:59.2770] - ERROR - | <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+[2019-04-15 12:59:59.2770] - ERROR - | <svg xmlns="http://www.w3.org/2000/svg">
+[2019-04-15 12:59:59.2770] - ERROR - ERROR in ./code/fonts/nbs-light/nbs-light-webfont.svg?jttxeu5z
+[2019-04-15 12:59:59.2780] - ERROR - Module parse failed: Unexpected token (1:0)
+[2019-04-15 12:59:59.2780] - ERROR - You may need an appropriate loader to handle this file type.
+[2019-04-15 12:59:59.2780] - ERROR - | <?xml version="1.0" standalone="no"?>
+[2019-04-15 12:59:59.2780] - ERROR - | <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+[2019-04-15 12:59:59.2780] - ERROR - | <svg xmlns="http://www.w3.org/2000/svg">
+[2019-04-15 13:00:00.4580] - WARNING - "@framer/benjamin.input#framer@^0.9.5" doesn't satisfy found match of "framer@0.10.10"
+[2019-04-15 13:00:00.4580] - WARNING - "@framer/roray.bulma#framer@^0.9.0" doesn't satisfy found match of "framer@0.10.10"
+[2019-04-15 13:00:50.6670] - INFO - Backing up to /Users/andbridg/Sites/design-system/design-system.framerfx/.backups/2019-04-15 13.00.50.zip

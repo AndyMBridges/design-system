@@ -1,0 +1,25 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.4.16"
+	},
+	"peerDependencies": {
+		"framer": "^0.10.4",
+		"react": "^16.3.0",
+		"react-dom": "^16.3.0"
+	},
+	"framer": {
+		"id": "a2e49f53-e7d8-4b41-8659-76e9be6b6fad"
+	},
+	"author": "Nisheed Jagadish",
+	"dependencies": {
+		"@emotion/core": "^10.0.10",
+		"@emotion/styled": "^10.0.10",
+		"@framer/anil.bootstrap-react": "^1.2.0",
+		"@framer/benjamin.input": "^1.1.0",
+		"@framer/djfumberger.curved-line-graph": "^1.2.0",
+		"@framer/martiankid.radio-check": "^1.2.0",
+		"@framer/roray.bulma": "^1.0.0"
+	}
+}

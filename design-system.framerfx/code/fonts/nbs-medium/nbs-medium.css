@@ -1,0 +1,26 @@
+/**
+ * @font-face LESS Mixin
+ * use: .font-face(
+ *   @font-family, // name
+ *   @file-path,   // absolute/relative URL to font files
+ *   @font-weight, // light/normal/bold/inherit | 300/400/700
+ *   @font-style   // italic/normal/inherit
+ * )
+ */
+
+/**
+   * font LESS Mixin
+   * use: .font(
+   *   @font-family, // name
+   *   @file-size,   // any unit/inherit
+   *   @font-weight, // light/normal/bold/inherit | 300/400/700
+   *   @font-style   // italic/normal/inherit
+   * )
+   */
+@font-face {
+  font-family: "nbs-medium";
+  src: url('./nbs-medium-webfont.eot?jttxeu67');
+  src: url('./nbs-medium-webfont.eot?jttxeu67#iefix') format('embedded-opentype'), url('./nbs-medium-webfont.woff?jttxeu67') format('woff'), url('./nbs-medium-webfont.ttf?jttxeu67') format('truetype'), url('./nbs-medium-webfont.svg?jttxeu67#./nbs-medium-webfont') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
