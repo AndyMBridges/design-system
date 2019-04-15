@@ -1,0 +1,37 @@
+{
+  "name": "storybook-design-system-demo",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@babel/core": "^7.4.0",
+    "babel-loader": "^8.0.5",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-scripts": "1.1.5",
+    "semantic-ui-css": "^2.3.3",
+    "semantic-ui-react": "^0.82.3",
+    "styled-components": "^4.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "storybook": "start-storybook -p 9009 -s public",
+    "build-storybook": "build-storybook -s public",
+    "deploy-storybook": "storybook-to-ghpages"
+  },
+  "devDependencies": {
+    "@storybook/addon-a11y": "^5.0.3",
+    "@storybook/addon-actions": "^5.0.3",
+    "@storybook/addon-backgrounds": "^5.0.3",
+    "@storybook/addon-info": "^5.0.3",
+    "@storybook/addon-knobs": "^5.0.3",
+    "@storybook/addon-links": "^5.0.3",
+    "@storybook/addon-options": "^5.0.3",
+    "@storybook/addon-viewport": "^5.0.3",
+    "@storybook/addons": "^5.0.3",
+    "@storybook/react": "^5.0.3",
+    "@storybook/storybook-deployer": "^2.8.1"
+  }
+}

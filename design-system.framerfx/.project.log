@@ -164,3 +164,21 @@
 [2019-04-15 13:00:00.4580] - WARNING - "@framer/benjamin.input#framer@^0.9.5" doesn't satisfy found match of "framer@0.10.10"
 [2019-04-15 13:00:00.4580] - WARNING - "@framer/roray.bulma#framer@^0.9.0" doesn't satisfy found match of "framer@0.10.10"
 [2019-04-15 13:00:50.6670] - INFO - Backing up to /Users/andbridg/Sites/design-system/design-system.framerfx/.backups/2019-04-15 13.00.50.zip
+[2019-04-15 13:01:45.1360] - ERROR - No lockfile in this directory. Run `yarn install` to generate one.
+[2019-04-15 13:01:45.3690] - ERROR - No installed Framer version
+[2019-04-15 13:03:45.1330] - ERROR - No lockfile in this directory. Run `yarn install` to generate one.
+[2019-04-15 13:03:45.2390] - ERROR - No installed Framer version
+[2019-04-15 13:05:45.1640] - ERROR - No lockfile in this directory. Run `yarn install` to generate one.
+[2019-04-15 13:05:45.3490] - ERROR - No installed Framer version
+[2019-04-15 13:07:45.2060] - ERROR - No lockfile in this directory. Run `yarn install` to generate one.
+[2019-04-15 13:07:45.3570] - ERROR - No installed Framer version
+[2019-04-15 13:09:45.1700] - ERROR - No lockfile in this directory. Run `yarn install` to generate one.
+[2019-04-15 13:09:45.2790] - ERROR - No installed Framer version
+[2019-04-15 13:11:45.1910] - ERROR - No lockfile in this directory. Run `yarn install` to generate one.
+[2019-04-15 13:11:45.3010] - ERROR - No installed Framer version
+[2019-04-15 13:13:45.1890] - ERROR - No lockfile in this directory. Run `yarn install` to generate one.
+[2019-04-15 13:13:45.4360] - ERROR - No installed Framer version
+[2019-04-15 13:15:45.1380] - ERROR - No lockfile in this directory. Run `yarn install` to generate one.
+[2019-04-15 13:15:45.3360] - ERROR - No installed Framer version
+[2019-04-15 13:17:45.1440] - ERROR - No lockfile in this directory. Run `yarn install` to generate one.
+[2019-04-15 13:17:45.2970] - ERROR - No installed Framer version
