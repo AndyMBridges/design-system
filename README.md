@@ -10,8 +10,8 @@ FramerX:
 Transfer component to Storybook:
 
 * Run `npm install` inside /storybook directory followed by `npm run storybook`
-* Create a new file storybook/src/stories/name.stories.js
-* Copy over your component styles from design-system.framerfx/code/filename.jsx
+* Create a new file storybook/src/stories/componentName.stories.js
+* Copy over your component styles from design-system.framerfx/code/componentName.jsx
 * Create a render method for your component and pass the props along with the label and editable text for knobs tab
 * Create a variety of stories using ‘storiesOf’ and set the props for each state
 * See storybook/src/stories/button.stories.js as an example
